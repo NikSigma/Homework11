@@ -15,11 +15,10 @@ print("bluedude: АААААААААААААААААААААААААА")
 
 hiders = ("guest1337", "shedletsky", "eliot", "builderman", "Noob")
 
-print(
-
-
-"Shedletsky: СМАЖЕНА КУРКА")
+print("Shedletsky: СМАЖЕНА КУРКА")
 print("Guest1337: ДА НЕ КРИЧИ НАС ПОЧУЮТЬ")
 print("Shedletsky: АААААААААААААААААА Я ХОЧУ КУРКУ")
 print("Eliot: Я ДАМ ТОБІ ПІЦУ")
 print("Shedletsky: АААААААААААААААААА Я ХОЧУ КУРКУ")
+print("Builderman: ТИ ОБІЦЯВ ЇЇ МЕНІ")
+print("Noob: ...")
